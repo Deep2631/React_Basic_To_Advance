@@ -6,8 +6,6 @@ const TestUseEffetc = () => {
         ()=>{
             console.log("this is useEffect")
         },[varr]
-
-
     )
   return (
     <>
